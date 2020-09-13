@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Adding program MoveZerosToEnd">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/IntToRoman.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1h0Kr4OO4XCMlilBolBtKBbiOPd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\GIT_Repos\Java_Coding_Practice\src\main\java\practice\leetcode\mySolution" />
+      <recent name="E:\Study\GIT_Repos\Java_Coding_Practice\src\main\java\practice\leetcode\original" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IntToRoman">
+    <configuration name="FindTheSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.FindTheSwitch" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.IntToRoman" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.MoveZerosToEnd" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegExpMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.RegExpMatch" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumbersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.SumOfNumbersInString" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntToRoman" />
+        <item itemvalue="Application.MoveZerosToEnd" />
+        <item itemvalue="Application.FindTheSwitch" />
+        <item itemvalue="Application.RegExpMatch" />
+        <item itemvalue="Application.SumOfNumbersInString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="" />
+      <created>1597745021783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597745021783</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding LongestPalindrome.java">
+      <created>1597745906890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597745906890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Solution to 'longest sub string' problem">
+      <created>1597745951839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597745951839</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding auto created files">
+      <created>1597745997990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597745997990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding program for SumOfNumbersInString">
+      <created>1597767018459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597767018459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding additional ways to solve program for SumOfNumbersInString">
+      <created>1597774037404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597774037404</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding programs">
+      <created>1598328269353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598328269353</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding program FindTheSwitch">
+      <created>1599144925231</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144925231</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding program MoveZerosToEnd">
+      <created>1599380335736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599380335736</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding LongestPalindrome.java" />
+    <MESSAGE value="Solution to 'longest sub string' problem" />
+    <MESSAGE value="Adding auto created files" />
+    <MESSAGE value="Adding program for SumOfNumbersInString" />
+    <MESSAGE value="Adding additional ways to solve program for SumOfNumbersInString" />
+    <MESSAGE value="Adding programs" />
+    <MESSAGE value="Adding program FindTheSwitch" />
+    <MESSAGE value="Adding program MoveZerosToEnd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding program MoveZerosToEnd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="125" width="1146" height="488" key="DiffContextDialog" timestamp="1600018803307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="125" width="1146" height="488" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1600018803307" />
+    <state width="1286" height="197" key="GridCell.Tab.0.bottom" timestamp="1600017595835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600017595835" />
+    <state width="1286" height="197" key="GridCell.Tab.0.center" timestamp="1600017595835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600017595835" />
+    <state width="1286" height="197" key="GridCell.Tab.0.left" timestamp="1600017595835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600017595835" />
+    <state width="1286" height="197" key="GridCell.Tab.0.right" timestamp="1600017595835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600017595835" />
+    <state width="1286" height="2" key="GridCell.Tab.1.bottom" timestamp="1599146469659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599146469659" />
+    <state width="1286" height="2" key="GridCell.Tab.1.center" timestamp="1599146469659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599146469659" />
+    <state width="1286" height="2" key="GridCell.Tab.1.left" timestamp="1599146469659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599146469659" />
+    <state width="1286" height="2" key="GridCell.Tab.1.right" timestamp="1599146469659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599146469659" />
+    <state x="409" y="71" key="RollbackChangesDialog" timestamp="1600017967805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="71" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600017967805" />
+    <state x="277" y="93" key="Vcs.Push.Dialog.v2" timestamp="1599380338900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="277" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599380338900" />
+    <state x="276" y="0" key="new project wizard" timestamp="1599146383752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="276" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599146383752" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/SumOfNumbersInString.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/SumOfNumbersInString.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (scheduler) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java_Coding_Practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
