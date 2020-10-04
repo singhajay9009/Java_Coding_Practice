@@ -1,90 +1,39 @@
-package practice.leetcode.mySolution;
+/******************************************************************************
 
-public class SumOfNumbersInString {
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
 
-    public static void main(String[] args) {
+*******************************************************************************/
 
-    //    System.out.println(new SumOfNumbersInString().sumNumbers("12dsfs54wer3ty"));
+public class SumOfNumbersinString
+{
+  public static void main (String[]args)
+  {
+    String s = "ab34ng5j4u563";	// 34+5+4+563
 
-     //   System.out.println(new SumOfNumbersInString().sumNumbersSolution2("12dss54w3"));
+      System.out.println ("Sum is: " + new Main ().sum (s));
+  }
 
-        System.out.println(new SumOfNumbersInString().sumNumbersSolution3("23c4d5e3"));
+  public int sum (String s)
+  {
+    char[] arr = s.toCharArray ();
+    String strDigits = "0";
+    int sum = 0;
 
-    }
-
-    public int sumNumbers(String str) {
-
-        int i=0, n=str.length(), flag=1, startIndex=0, sum=0;
-        String str1 = null;
-
-        while(i<n){
-            while(Character.isDigit(str.charAt(i))){
-                if(flag == 1){
-                    startIndex = i;
-                }
-                flag = 0;
-                str1 = str.substring(startIndex, i+1);
-                i++;
-                if(i==n){
-                    i--;
-                    break;
-                }
-            }
-            if( flag ==0){
-                sum = sum + Integer.parseInt(str1);
-            }
-
-            flag = 1;
-            i++;
-
-        }
-
-        return sum;
-    }
-
-    //
-
-    public int sumNumbersSolution2(String str) {
-
-        int i=0, n=str.length(), flag=1, startIndex=0, sum=0;
-        String str1 = "0";
-
-        while(i<n) {
-            if (Character.isDigit(str.charAt(i))) {
-                flag = 0;
-                str1 = str.substring(startIndex, i+1);
-            }
-            else{
-                startIndex = i+1;
-            }
-            if(flag == 0 && (!Character.isDigit(str.charAt(i)) || i==n-1)){
-                sum = sum + Integer.parseInt(str1);
-                flag =1;
-            }
-            i++;
-        }
-        return sum;
-    }
-
-
-    // Seems this is the cleanest and shortest solution
-    public int sumNumbersSolution3(String str) {
-
-        int i=0, n=str.length(), flag=1, sum=0;
-        String str1 = "";
-
-        while(i<n) {
-            if (Character.isDigit(str.charAt(i))) {
-                flag = 0;
-                str1 = str1 + str.charAt(i);
-            }
-            if(flag == 0 && (!Character.isDigit(str.charAt(i)) || i == n-1)){
-                sum = sum + Integer.parseInt(str1);
-                str1 = "";
-                flag = 1;
-            }
-            i++;
-        }
-        return sum;
-    }
+    for (int i = 0; i < s.length (); i++)
+      {
+	if (Character.isDigit (arr[i]))
+	  {
+	    strDigits = strDigits + arr[i];
+	  }
+	else
+	  {
+	    sum = sum + Integer.parseInt (strDigits);
+	    strDigits = "0";
+	  }
+      }
+    sum = sum + Integer.parseInt (strDigits);
+    return sum;
+  }
 }
