@@ -9,7 +9,7 @@
  * }
  */
 
-
+package practice.leetcode.mySolution;
 class RemoveDuplicatesFromSortedLinkedList {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode currentNode = head;

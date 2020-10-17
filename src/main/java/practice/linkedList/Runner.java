@@ -1,4 +1,4 @@
-package leetcode.linkedList;
+package practice.linkedList;
 
 public class Runner {
 

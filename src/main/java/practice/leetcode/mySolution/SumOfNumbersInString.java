@@ -4,8 +4,9 @@
                 Code, Compile, Run and Debug java program online.
 Write your code in this editor and press "Run" button to execute it.
 
-*******************************************************************************/
+*******************************************************************************//*
 
+package practice.leetcode.mySolution;
 public class SumOfNumbersinString
 {
   public static void main (String[]args)
@@ -37,3 +38,4 @@ public class SumOfNumbersinString
     return sum;
   }
 }
+*/
