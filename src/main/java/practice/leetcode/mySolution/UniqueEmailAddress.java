@@ -7,13 +7,13 @@ public class UniqueEmailAddress {
 
 
     public static void main(String[] args) {
-        String[] emails = {"test.email+alex@leetcode.com","test.email.leet+alex@code.com"};
+        String[] emails = {"test.email+alex@leetcode.com", "test.email@leetcode.com"};
         System.out.println(new UniqueEmailAddress().numUniqueEmails(emails));
 
     }
 
 
-    public int numUniqueEmails(String[] emails) {
+   /* public int numUniqueEmails(String[] emails) {
 
         StringBuffer strLocalName = new StringBuffer("");
 
@@ -57,6 +57,46 @@ public class UniqueEmailAddress {
             }
 
 
+        }
+
+        return set.size();
+
+    }*/
+
+   // ============== Better Solution performance wise ================
+
+    public int numUniqueEmails(String[] emails) {
+
+        StringBuffer strLocalName = new StringBuffer("");
+
+        Set<String> set = new HashSet<>();
+
+        for(String email: emails){
+            StringBuffer emailFormed = new StringBuffer();
+            for(int i=0; i<email.length(); i++){
+
+                char c= email.charAt(i);
+
+                if(c == '+'){
+                    while(email.charAt(i) != '@'){
+                        i++;
+                    }
+                    emailFormed.append(email.substring(i));
+                    break;
+                }
+                else if(c == '@'){
+                    emailFormed.append(email.substring(i));
+                    break;
+                }
+                else if(c == '.') {
+                    continue;
+                }
+                else{
+                    emailFormed.append(c);
+                }
+
+            }
+            set.add(emailFormed.toString());
         }
 
         return set.size();
