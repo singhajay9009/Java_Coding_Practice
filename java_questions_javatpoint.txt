@@ -1,0 +1,1 @@
+117  - Marker Interface - https://www.baeldung.com/java-marker-interfaces
