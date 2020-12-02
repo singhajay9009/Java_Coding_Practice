@@ -1,1 +1,29 @@
+108  - Difference between abstarction and encapsulation
 117  - Marker Interface - https://www.baeldung.com/java-marker-interfaces
+128  - java.lang is loaded by default in JVM internally
+130  - static import in java ( to import static members of class directly)
+145  - parent and child class exception
+150  - String 'concat' method 
+152  - point 2
+155
+157  - String intern method
+159  - StirngBUilder and StringBuffer
+180  - gc ( Garbage Collection )
+186  - Final , Finally, Finalize in java
+193
+194
+198
+
+random Question:  What is Marker interface ?
+Ans: Serializable is a marker interface (has no data member and method). It is used to “mark” java classes so that objects of these classes may get certain capability. Other examples of marker interfaces are:- Cloneable and Remote.
+
+201 - Serialization/Deserialization
+202 - Serialization/Deserialization
+21  - Reflection API
+
+220
+221
+
+222 - Object cloning - shallow copy, deep copy
+224 - strictfp
+227 - Singleton class
