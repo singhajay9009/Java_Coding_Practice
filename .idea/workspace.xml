@@ -23,21 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Adding UniqueEmailAddress leetocde">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/PaintFence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/SortNegativePositiveIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/META-INF/Java_Coding_Practice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/AddTwoNumsLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/AddTwoNumsLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/FindTheSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/FindTheSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/IntToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/LongestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/MoveZerosToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/MoveZerosToEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/RegExpMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/RegExpMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestPalindromeFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestPalindromeFinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MaxDepthBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MaxDepthBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MinDepthBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MinDepthBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +196,33 @@
       <recent name="E:\Study\GIT_Repos\Java_Coding_Practice\src\main\java\practice\leetcode\original" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeNode">
+  <component name="RunManager" selected="Application.SortNegativePositiveIntegers">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.BinarySearch" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTheSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.FindTheSwitch" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PaintFence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.PaintFence" />
       <module name="Java_Coding_Practice" />
@@ -220,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFinalSol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.linkedList.RemoveDuplicatesFinalSol" />
+    <configuration name="SortNegativePositiveIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.general.SortNegativePositiveIntegers" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.linkedList.*" />
+          <option name="PATTERN" value="practice.general.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,39 +262,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueEmailAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.UniqueEmailAddress" />
-      <module name="Java_Coding_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.ValidParentheses" />
-      <module name="Java_Coding_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortNegativePositiveIntegers" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.FindTheSwitch" />
         <item itemvalue="Application.TreeNode" />
         <item itemvalue="Application.PaintFence" />
-        <item itemvalue="Application.UniqueEmailAddress" />
-        <item itemvalue="Application.ValidParentheses" />
-        <item itemvalue="Application.RemoveDuplicatesFinalSol" />
       </list>
     </recent_temporary>
   </component>
@@ -532,11 +522,22 @@
           <line>41</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/general/SortNegativePositiveIntegers.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/general/SortNegativePositiveIntegers.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="sumLeft" />
+        <watch expression="j" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
