@@ -23,11 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Adding UniqueEmailAddress leetocde">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/SortNegativePositiveIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/DemoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/GetLatestVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/PqToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/KthLargestElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/TopKMostFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_CleanCode/PasswordStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_old/LargestNumInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MaxDepthBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MaxDepthBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/DeleteDuplicatesInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/DeleteDuplicatesInLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +201,20 @@
       <recent name="E:\Study\GIT_Repos\Java_Coding_Practice\src\main\java\practice\leetcode\original" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortNegativePositiveIntegers">
+  <component name="RunManager" selected="Application.LargestNumInArray">
+    <configuration name="AnagramString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.AnagramString" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.BinarySearch" />
       <module name="Java_Coding_Practice" />
@@ -210,34 +228,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.FindTheSwitch" />
-      <module name="Java_Coding_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PaintFence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.PaintFence" />
-      <module name="Java_Coding_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortNegativePositiveIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.general.SortNegativePositiveIntegers" />
+    <configuration name="GetLatestVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.general.GetLatestVersion" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
@@ -249,8 +241,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.TreeNode" />
+    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.KthLargestElementInArray" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
@@ -262,13 +254,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LargestNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_old.LargestNumInArray" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_old.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortNegativePositiveIntegers" />
+        <item itemvalue="Application.LargestNumInArray" />
+        <item itemvalue="Application.GetLatestVersion" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.FindTheSwitch" />
-        <item itemvalue="Application.TreeNode" />
-        <item itemvalue="Application.PaintFence" />
+        <item itemvalue="Application.AnagramString" />
+        <item itemvalue="Application.KthLargestElementInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -524,13 +529,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/practice/general/SortNegativePositiveIntegers.java</url>
-          <line>29</line>
+          <line>35</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/practice/general/SortNegativePositiveIntegers.java</url>
-          <line>17</line>
+          <line>23</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/PqToArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
