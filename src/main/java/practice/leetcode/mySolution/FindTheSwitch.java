@@ -7,9 +7,13 @@ package practice.leetcode.mySolution;
 // Find out the index where the switch happens
 public class FindTheSwitch {
     public static void main(String[] args) {
-       int [] numArr = new int[]{0,0,1,1,1,1};
+       int [] numArr = new int[]{0,0,0};
        int index =  new FindTheSwitch().switchIndex(0, numArr.length-1, numArr);
-       System.out.println(index);
+       int index1 = new FindTheSwitch().findSwitchIndex(0, numArr.length-1, numArr);
+
+       //  System.out.println(index);
+      //  System.out.println(index1);
+        System.out.println("Nannu Singh has ordered - SHANTI SE AUR AKELE KAAM KARO");
     }
 
     public int switchIndex(int s, int e, int[] arr){
@@ -28,6 +32,21 @@ public class FindTheSwitch {
             return switchPos;
         }
 
+    }
+
+
+    public int findSwitchIndex(int s, int e, int[] arr){
+        while(e>=s){
+            int m = (s+e)/2;
+            if(arr[m] == 1){
+                e = m-1;
+            }else{
+                s = m+1;
+            }
+            findSwitchIndex(s, e, arr);
+        }
+
+        return arr[s]==1 ? s : -1;
     }
 
 }

@@ -16,7 +16,7 @@ public class BinarySearch {
 
         if(e>=s){
             if(arr[mid] == ele){
-                return mid+1;
+                return mid;  // not considering the index, but nth element in array
             }else if(arr[mid] < ele){
                 s = mid+1;
             }else{

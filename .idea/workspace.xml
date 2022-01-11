@@ -22,17 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Adding UniqueEmailAddress leetocde">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/DemoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/GetLatestVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/PqToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/KthLargestElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/TopKMostFrequent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_CleanCode/PasswordStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_old/LargestNumInArray.java" afterDir="false" />
+    <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Adding more programs-1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/concepts/JavaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_old/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/DemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/FindMinFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/StringPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/SumOfNumsInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/WordSmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/DeleteDuplicatesInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/DeleteDuplicatesInLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/FindTheSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/FindTheSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/FindTheSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/FindTheSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MoveZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/MoveZerosToEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,20 +206,7 @@
       <recent name="E:\Study\GIT_Repos\Java_Coding_Practice\src\main\java\practice\leetcode\original" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestNumInArray">
-    <configuration name="AnagramString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.AnagramString" />
-      <module name="Java_Coding_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.BinarySearch" />
       <module name="Java_Coding_Practice" />
@@ -228,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetLatestVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.general.GetLatestVersion" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.general.*" />
+          <option name="PATTERN" value="sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.KthLargestElementInArray" />
+    <configuration name="FindTheSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.FindTheSwitch" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
@@ -254,12 +246,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_old.LargestNumInArray" />
+    <configuration name="JavaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.JavaArray" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_old.*" />
+          <option name="PATTERN" value="concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sampleTest.StringOperation" />
+      <module name="Java_Coding_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sampleTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestNumInArray" />
-        <item itemvalue="Application.GetLatestVersion" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.JavaArray" />
+        <item itemvalue="Application.StringOperation" />
+        <item itemvalue="Application.FindTheSwitch" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.AnagramString" />
-        <item itemvalue="Application.KthLargestElementInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604133027041</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding more programs">
+      <created>1638598551198</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638598551198</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding more programs-1">
+      <created>1638598941873</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638598941873</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -457,7 +476,9 @@
     <MESSAGE value="Updating .gitignore file" />
     <MESSAGE value="Adding merge sort algo" />
     <MESSAGE value="Adding UniqueEmailAddress leetocde" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding UniqueEmailAddress leetocde" />
+    <MESSAGE value="Adding more programs" />
+    <MESSAGE value="Adding more programs-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding more programs-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -476,11 +497,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/RomanToInt.java</url>
           <line>29</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/concepts/Car.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/sorting/MergeSortAlgo.java</url>
@@ -551,6 +567,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java</url>
           <line>20</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringManipulation.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringPattern.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringOperation.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
