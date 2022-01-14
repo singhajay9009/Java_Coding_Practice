@@ -4,7 +4,7 @@ public class BubbleSort {
 
     public static void main(String[] args) {
         int[] arr = {1,-5,33,12,45,-20,67,11};
-        new BubbleSort().bubbleSort(arr);
+        new BubbleSort().bubbleSort2(arr);
 
         for (int i=0; i<arr.length; i++) {
             System.out.println(arr[i]);
@@ -28,7 +28,7 @@ public class BubbleSort {
     public int[] bubbleSort2(int[] arr){
         int n = 0;
         while(n < arr.length){
-            for(int j=0; j<arr.length-1; j++){
+            for(int j=0; j<arr.length-1-n; j++){
                 if(arr[j] > arr[j+1]){
                     int temp = arr[j];
                     arr[j] = arr[j+1];

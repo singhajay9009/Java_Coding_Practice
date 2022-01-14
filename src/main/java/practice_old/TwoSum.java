@@ -1,4 +1,4 @@
-package leetcode.mySolution;
+package practice_old;
 
 import java.util.HashMap;
 
