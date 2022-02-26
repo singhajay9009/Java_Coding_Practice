@@ -24,7 +24,12 @@ public class LargestNumInArray {
 
     static int getMax(int[] arr) throws Exception {
 
-        return Arrays.stream(arr).max().orElseThrow(() -> new Exception("Can't be null"));
+        int max =  Arrays.stream(arr).max().orElseThrow(() -> new Exception("Can't be null"));
+
+        //using parallel streams
+        int max2 = Arrays.stream(arr).parallel().max().orElseThrow(NullPointerException::new);
+
+        return max;
     }
 
 
@@ -32,5 +37,14 @@ public class LargestNumInArray {
 
         return list.stream().max(Integer::compare).orElseThrow(
                 ()-> new Exception("list can not be null"));
+    }
+
+    public int getMaxNum(int[] arr) throws Exception {
+        if(arr == null || arr.length == 0) throw new Exception("Array can't be null or empty");
+        int max = arr[0];
+        for(int num: arr){
+            max = Math.max(max, num);
+        }
+        return max;
     }
 }

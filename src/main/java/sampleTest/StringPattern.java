@@ -3,7 +3,7 @@ package sampleTest;
 public class StringPattern {
 
     public static void main(String[] args) {
-        String str = new StringPattern().solution("DDBABCDDCA");
+        String str = new StringPattern().solution("ABC");
         System.out.println(str);
     }
 
@@ -21,7 +21,6 @@ public class StringPattern {
                 case 'A':
                     if(previous == 'B'){
                         sb.replace(i-num-1, i-num+1, "");
-
                         if(i-num-2 <0) {
                             previous = 'X';
                         }else{

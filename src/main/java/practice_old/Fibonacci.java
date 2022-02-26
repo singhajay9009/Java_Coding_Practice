@@ -9,6 +9,8 @@ public class Fibonacci {
     public static void main(String[] args) {
         System.out.println(new Fibonacci().createFibonacci(5));
 
+        new Fibonacci().fibPrint(5);
+
         //
 
         for(int i=0; i<5; i++){
@@ -39,4 +41,19 @@ public class Fibonacci {
 //        str = str + String.valueOf(fibRecursive(5));
 //        return str;
 //     }
+
+    public static void fibPrint(int n){
+        StringBuilder sb = new StringBuilder("1 ");
+        int n1 = 0;
+        int n2 = 1;
+        int n3;
+        for(int i=0; i<n-1; i++){
+            n3 = n2 + n1;
+            sb.append(n3 + " ");
+            n1 = n2;
+            n2 = n3;
+        }
+        System.out.println("----");
+        System.out.println(sb);
+    }
 }

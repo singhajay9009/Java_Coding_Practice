@@ -1,4 +1,4 @@
-package leetcode.mySolution;
+package practice_old;
 
 public class ReverseInteger {
 
@@ -46,6 +46,20 @@ public class ReverseInteger {
         */
 
 
+        public int reverseInteger(int x){
+            // one line solution, but lots of objects are being created. Not good!
+            //  return Integer.parseInt(new StringBuilder(x).reverse().toString());
+
+            // 123 -> 321
+
+            return 0;
+        }
+
+
+
     }
+
+
+
 
 

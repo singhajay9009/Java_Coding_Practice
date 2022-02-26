@@ -22,12 +22,38 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Add programs -3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_old/SumofNumbersInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/SelectionSort.java" afterDir="false" />
+    <list default="true" id="a9a4de20-0f2f-4599-85f1-f146f3baccb0" name="Default Changelist" comment="Add programs -4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/DataRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/DistinctPairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/HighestIMBDRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/Vaccination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/LargestEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/general/RecursionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/StockBuySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleTest/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/NThLargestWihtoutQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practice_old/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_old/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/AddTwoNumsLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/AddTwoNumsLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/FindTheSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/FindTheSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/IntToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/MoveZerosToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/MoveZerosToEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/RegExpMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/mySolution/RegExpMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestPalindromeFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestPalindromeFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Coding_Practice/practice/leetcode/original/LongestSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/KthLargestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/KthLargestElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_old/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_old/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_old/LargestNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_old/LargestNumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_old/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_old/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice_old/SumofNumbersInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_old/SumofNumbersInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sampleTest/StringPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sampleTest/StringPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,12 +223,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.SumofNumbersInString">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_old.Fibonacci" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="practice_old.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.JavaArray" />
+    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.KthLargestElementInArray" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.*" />
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.SelectionSort" />
+    <configuration name="RecursionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.general.RecursionPractice" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="practice.general.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sampleTest.StringOperation" />
+    <configuration name="StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.leetcode.mySolution.StockBuySell" />
       <module name="Java_Coding_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sampleTest.*" />
+          <option name="PATTERN" value="practice.leetcode.mySolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,10 +291,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SumofNumbersInString" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.JavaArray" />
-        <item itemvalue="Application.StringOperation" />
+        <item itemvalue="Application.StockBuySell" />
+        <item itemvalue="Application.KthLargestElementInArray" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.RecursionPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641914444184</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add programs -4">
+      <created>1642165402328</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642165402328</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -476,7 +509,8 @@
     <MESSAGE value="Adding more programs" />
     <MESSAGE value="Adding more programs-1" />
     <MESSAGE value="Add programs -3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add programs -3" />
+    <MESSAGE value="Add programs -4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add programs -4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -557,24 +591,9 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringManipulation.java</url>
           <line>24</line>
           <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringPattern.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringOperation.java</url>
@@ -586,12 +605,61 @@
           <line>16</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/NThLargestWihtoutQueue.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/AnagramString.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sampleTest/StringPattern.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codechef/DistinctPairSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codechef/Vaccination.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/general/RecursionPractice.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/general/RecursionPractice.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/leetcode/mySolution/StockBuySell.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="sumLeft" />
         <watch expression="j" language="JAVA" />
+        <watch expression="arr[mid]" />
+        <watch expression="str.charAt(i+1" />
+        <watch expression="str.charAt(i+1)" />
+        <watch expression="str.charAt(i-1)" />
+        <watch expression="num" />
+        <watch expression="area" />
+        <watch expression="minPrice" />
+        <watch expression="maxPrice" />
+        <watch expression="price" />
       </configuration>
     </watches-manager>
   </component>
